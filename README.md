@@ -27,6 +27,7 @@ Sou um Desenvolvedor Fullstack com mais de 4 anos de experiência na área, grad
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,8 +48,7 @@ Sou um Desenvolvedor Fullstack com mais de 4 anos de experiência na área, grad
 <summary><strong>Desenvolvedor Frontend - FSBR (Janeiro/2025 - Atualmente)</strong></summary>
 
 - Desenvolvimento de aplicações responsivas com React, TypeScript, Styled-Components e Tailwind.
-- Construção e manutenção de APIs com Node.js, NestJS e Prisma, aplicando conceitos SOLID que resultaram em um **aumento de 20% na capacidade de consultas**.
-- Criação de esteiras de pipeline (CI/CD) na AWS, alcançando uma **redução de 13% no tempo médio de deploy**.
+- Construção e manutenção de APIs com Node.js, NestJS e Prisma, aplicando conceitos SOLID.
 
 </details>
 
@@ -67,8 +67,8 @@ Sou um Desenvolvedor Fullstack com mais de 4 anos de experiência na área, grad
 - Desenvolvi APIs REST com Node.js, PostgreSQL, RabbitMQ e Redis, em containers Docker.
 - Atuei na manutenção de aplicações web responsivas com React, Angular, Redux e TypeScript.
 - Implementei autenticação com **JWT e OAuth2** e integrei serviços externos como Twilio e Form.io.
-- Adotei padrões de arquitetura (SOLID, Clean Code), resultando em uma **redução de 20% da dívida técnica**.
-- Automatizei testes com Jest, **reduzindo em cerca de 18% o esforço dedicado a bugs por sprint**.
+- Adotei padrões de arquitetura (SOLID, Clean Code).
+- Automatizei testes com Jest.
 - Desenvolvi aplicações mobile com React Native (Expo).
 
 </details>
@@ -79,9 +79,10 @@ Sou um Desenvolvedor Fullstack com mais de 4 anos de experiência na área, grad
 
 Aqui estão alguns projetos em que trabalhei. Sinta-se à vontade para explorar!
 
-- **Saúde Cinco** - *[Adicione aqui uma breve descrição do projeto e o link do repositório/demo]*
-- **MIDDLE MDotti** - *[Adicione aqui uma breve descrição do projeto e o link do repositório/demo]*
-- **Fincheck** - *[Adicione aqui uma breve descrição do projeto e o link do repositório/demo]*
+- **![Saúde Cinco](https://saudecinco.com/)**
+- **![MIDDLE](https://www.middlepro.com/)**
+- **![MDotti](https://mdotti.com/)**
+- **![Fincheck](https://d31io086ct4p9z.cloudfront.net/access/login)**
 
 ---
 
