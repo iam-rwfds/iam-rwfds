@@ -2,18 +2,12 @@
 
 Sou um Desenvolvedor Fullstack com mais de 4 anos de experiência na área, graduado na área. Minha atuação é focada no ciclo de vida completo do desenvolvimento de aplicações, desde o design de sistemas distribuídos e resilientes até a implementação de APIs performáticas e a criação de interfaces de usuário responsivas.
 
-# Rodrigo Silva | Desenvolvedor FullStack
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-walace-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-rwfds)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.walace.silva@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581982863725)
 
-### Olá! 👋
-
-Sou um Desenvolvedor FullStack com foco em **Node.js**, **React** e **arquiteturas de nuvem (AWS)**. Tenho experiência na construção de APIs e serviços distribuídos, escaláveis e resilientes, sempre buscando aplicar as melhores práticas de código limpo (Clean Code, SOLID) e metodologias ágeis para garantir a qualidade das entregas.
-
-- 🔭 Atualmente trabalhando como **Desenvolvedor Frontend** na FSBR.
+- 🔭 Atualmente trabalhando como **Desenvolvedor Fullstack** na FSBR.
 - 🌱 Focado em performance, otimização e observabilidade de aplicações em nuvem.
 - 💬 Fique à vontade para entrar em contato para falar sobre tecnologia, projetos ou oportunidades!
 
